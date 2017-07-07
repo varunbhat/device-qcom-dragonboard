@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"linar",
+				"linaro-android"
+			],
+			[
+				"re",
+				"remote"
+			],
+			[
+				"data",
+				"data_1"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"conf",
+				"config_msm"
+			],
+			[
+				"dt",
+				"dtbs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "BoardConfig.mk",
+			"settings":
+			{
+				"buffer_size": 838,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AndroidProducts.mk",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "full_dragonboard.mk",
+			"settings":
+			{
+				"buffer_size": 870,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/varunbhat/workspace/aosp/device/common/generate-blob-lists.sh",
+			"settings":
+			{
+				"buffer_size": 4821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/varunbhat/workspace/aosp/device/common/generate-packages.sh",
+			"settings":
+			{
+				"buffer_size": 6003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendorsetup.sh",
+			"settings":
+			{
+				"buffer_size": 644,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/varunbhat/workspace/aosp/device",
+		"/home/varunbhat/workspace/aosp/device/generic/arm64",
+		"/home/varunbhat/workspace/aosp/device/qcom/dragonboard"
+	],
+	"file_history":
+	[
+		"/home/varunbhat/workspace/aosp/device/qcom/dragonboard-kernel/kernel",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/dragonboard.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/generic-arm64.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/generic-arm-inc.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/generic-arm-test-inc.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/AndroidBoard.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/msm8916_64.mk",
+		"/home/varunbhat/workspace/aosp/device/qcom/msm8916_64/AndroidProducts.mk",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/.repo/manifest.xml",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/Makefile",
+		"/home/varunbhat/workspace/projects/dragonboard/out_android6.txt",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/out_android5.txt",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/mdss_mdp.c",
+		"/home/varunbhat/workspace/msm_kernel/msm/drivers/video/msm/mdss/mdss_io_util.c",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/dsi_v2.c",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/arch/arm/boot/dts/qcom/apq8016-sbc.dtsi",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/adv7533_dsi2hdmi.c",
+		"/home/varunbhat/workspace/msm_kernel/msm/arch/arm64/configs/msm_defconfig",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/Documentation/devicetree/bindings/fb/mdss-dsi-panel.txt",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel/arch/arm/configs/msm8916_defconfig",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/out_android6.txt",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/mdss_mdp_trace.h",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel/arch/arm64/configs/msm_defconfig",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/out.txt",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/mdss_debug.c",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/drivers/video/msm/mdss/mdss_debug.h",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/bkp/.config",
+		"/home/varunbhat/workspace/scripts/missing_configs",
+		"/home/varunbhat/workspace/scripts/same_configs",
+		"/home/varunbhat/workspace/scripts/configcompare.py",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/configs/msm_defconfig",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/boot/dts/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/boot/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_1/",
+		"/tmp/apq8016-sbc.dts",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/boot/dts/qcom/Makefile",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/Documentation/mic/mpssd/micctrl",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/scripts/Makefile.lib",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/scripts/Makefile.modpost",
+		"/home/varunbhat/workspace/db/APQ8016_410C_LA.BR.1.2.7-01010-8x16.0_6.0.1_Marsh_Mallo_P2/kernel_4_7/arch/arm64/Kconfig.platforms",
+		"/home/varunbhat/workspace/kernel/linux-4.7.5/build.sh",
+		"/home/varunbhat/workspace/db/dragonboard/testzz/out_android5.txt",
+		"/home/varunbhat/workspace/db/dragonboard/testzz/out.txt"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"revision",
+			"kernel",
+			"^\\[.*?\\] ",
+			"CONFIG_SECURITY_PERF_EVENTS_RESTRICT",
+			"qcom,dba-panel;",
+			"qcom,dba-panel",
+			"qcom,dba-panel;",
+			"^(<[0-9+]>)?\\[.*?\\] ",
+			"^<[0-9+]>\\[.*?\\] ",
+			"^\\[.*?\\] ",
+			"CONFIG_CPU_IDLE_MULTIPLE_DRIVERS",
+			"DTC",
+			"\\.dts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "BoardConfig.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								838,
+								838
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AndroidProducts.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "full_dragonboard.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/varunbhat/workspace/aosp/device/common/generate-blob-lists.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1262,
+								1262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/varunbhat/workspace/aosp/device/common/generate-packages.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								990,
+								990
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "vendorsetup.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "db_device.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
